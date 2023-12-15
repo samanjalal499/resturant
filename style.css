@@ -1,0 +1,32 @@
+.box{
+
+    height: 500px; 
+    border: 2px solid black;
+}
+.list{
+    text-decoration: none;
+    color: green;
+
+}
+.list:active{
+    color: blue;
+}
+.list:visited{
+    color: red;
+}
+.img{
+ 
+
+
+
+}
+
+img{
+    
+    width: 300px;
+  
+    
+    
+    
+}
+
